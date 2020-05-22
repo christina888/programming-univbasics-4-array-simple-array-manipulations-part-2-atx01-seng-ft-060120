@@ -1,3 +1,3 @@
-def using_concat 
+def using_concat (arr1, arr2)
   
 end
