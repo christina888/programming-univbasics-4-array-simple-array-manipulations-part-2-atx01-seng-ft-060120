@@ -11,5 +11,5 @@ def using_uniq (array)
 end
 
 def using_flattern (array)
-  
+  array.flattern
 end
